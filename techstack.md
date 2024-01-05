@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [britkern/amplitudejs](https://github.com/britkern/amplitudejs)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|18<br/>Tools used|11/30/23 <br/>Report generated|
+|19<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -144,9 +144,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (7)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (7)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (8)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -155,6 +155,7 @@ Full tech stack [here](/techstack.md)
 |[babel-plugin-add-module-exports](https://www.npmjs.com/babel-plugin-add-module-exports)|v0.2.1|07/09/19|Dan Pastori |MIT|N/A|
 |[babel-polyfill](https://www.npmjs.com/babel-polyfill)|v6.26.0|07/09/19|Dan Pastori |MIT|N/A|
 |[babel-preset-es2015](https://www.npmjs.com/babel-preset-es2015)|v6.24.1|07/09/19|Dan Pastori |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v1.3.1|07/09/19|Dan Pastori |MIT|N/A|
 |[pretty-quick](https://www.npmjs.com/pretty-quick)|v1.11.1|07/09/19|Dan Pastori |MIT|N/A|
 |[watch](https://www.npmjs.com/watch)|v0.18.0|01/06/18|Dan Pastori |Apache-2.0|N/A|
 
