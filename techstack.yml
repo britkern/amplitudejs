@@ -2,7 +2,7 @@ repo_name: britkern/amplitudejs
 report_id: 19a2063b974ca2bda4af9f6483874783
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:30:26+00:00'
+timestamp: '2024-02-29T18:56:48+00:00'
 requested_by: jaydrogers
 provider: github
 branch: master
@@ -71,7 +71,7 @@ tools:
   last_updated_by: Dan Pastori
   last_updated_on: 2015-04-16 01:13:09.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.15.1
   license: MIT
